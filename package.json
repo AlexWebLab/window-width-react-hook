@@ -1,0 +1,23 @@
+{
+  "name": "window-width-react-hook",
+  "version": "1.0.0",
+  "description": "This React hook returns the current window width.",
+  "main": "src/useWindowWidth.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexWebLab/window-width-react-hook.git"
+  },
+  "keywords": [
+    "reactjs",
+    "hooks"
+  ],
+  "author": "AlexWebLab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexWebLab/window-width-react-hook/issues"
+  },
+  "homepage": "https://github.com/AlexWebLab/window-width-react-hook#readme"
+}
