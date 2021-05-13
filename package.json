@@ -1,6 +1,6 @@
 {
   "name": "window-width-react-hook",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This React hook returns the current window width.",
   "main": "src/useWindowWidth.js",
   "scripts": {
